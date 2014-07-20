@@ -19,3 +19,7 @@
 *.exe
 *.out
 *.app
+src/wp7/VrCalibration/VrCalibration/Bin/
+*.user
+src/wp7/VrCalibration/VrCalibration/obj/
+*.suo
