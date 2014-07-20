@@ -1,4 +1,4 @@
-divecalibration
+Durovis Dive Calibration Utility
 ===============
 
 Durovis Dive Calibration utility for Windows Phone and Marmalade SDK
